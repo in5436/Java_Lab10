@@ -20,7 +20,6 @@ public class CryptoManager {
         try (Reader reader = new FileReader(inputFile);
              Writer writer = new CryptoWriter(new FileWriter(outputFile), key))
         {
-
             int c;
             while ((c = reader.read()) != -1) {
 
