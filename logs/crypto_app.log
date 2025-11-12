@@ -56,3 +56,23 @@
 17:54:22.767 [INFO ] [main] CryptoManager - Розпочато дешифрування файлу : C:\PislyaDeSh.txt -> C:\PislyaSh.txt.
 17:54:22.769 [INFO ] [main] CryptoManager - Файл C:\PislyaSh.txt успішно дешифровано!
 17:54:22.769 [INFO ] [main] Main - Завершення програми.
+19:07:03.123 [INFO ] [main] Main - Запуск програми CryptoApp...
+19:07:03.126 [INFO ] [main] Main - Оберіть режим:
+19:07:03.126 [INFO ] [main] Main - 1. Шифрування
+19:07:03.126 [INFO ] [main] Main - 2. Дешифрування
+19:07:08.014 [INFO ] [main] Main - Введіть шлях до ВХІДНОГО файлу:
+19:07:17.155 [INFO ] [main] Main - Введіть шлях до ВИХІДНОГО файлу:
+19:07:31.073 [INFO ] [main] Main - Введіть ключовий СИМВОЛ (напр., 'a'):
+19:07:38.961 [INFO ] [main] CryptoManager - Розпочато шифрування файлу : C:\DoSh.txt -> C:\PislyaSh.txt.
+19:07:38.962 [INFO ] [main] CryptoManager - Файл C:\PislyaSh.txt успішно зашифровано!
+19:07:38.962 [INFO ] [main] Main - Завершення програми.
+19:09:03.757 [INFO ] [main] Main - CryptoApp program started...
+19:09:03.759 [INFO ] [main] Main - Select mode:
+19:09:03.760 [INFO ] [main] Main - 1. Encrypt
+19:09:03.760 [INFO ] [main] Main - 2. Decrypt
+19:09:06.962 [INFO ] [main] Main - Enter path to INPUT file:
+19:09:16.232 [INFO ] [main] Main - Enter path to OUTPUT file:
+19:09:25.042 [INFO ] [main] Main - Enter a single character KEY (e.g., 'a'):
+19:09:28.301 [INFO ] [main] CryptoManager - File starts decryption: C:\PislyaSh.txt -> C:\PislyaDeSh.txt.
+19:09:28.302 [INFO ] [main] CryptoManager - File C:\PislyaDeSh.txt decrypted successfully!
+19:09:28.302 [INFO ] [main] Main - Program finished.
